@@ -1,6 +1,6 @@
 # Revisão Pandas e SQL com Python
 
-Este repositório contém exercícios práticos desenvolvidos para estudo de manipulação de dados com Python, com foco nas bibliotecas Pandas e SQLite.
+Este repositório contém exercícios práticos desenvolvidos para estudo de manipulação de dados em Python, com foco nas bibliotecas Pandas e SQLite.
 
 ## Tecnologias utilizadas
 
